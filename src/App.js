@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
 import MainCalendar from './components/calendar'
+import Events from './components/events'
 
 function App() {
  
@@ -7,6 +8,7 @@ function App() {
   return (
     <div className="App">
       <MainCalendar />
+      <Events />
     </div>
   );
 }
