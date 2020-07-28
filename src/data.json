@@ -1,26 +1,26 @@
 [
     {
-        "date": "Mon Jul 27 2020",
+        "date": "Mon Jul 13 2020 00:00:00 GMT+0530 (India Standard Time)",
         "time": "12:09:26",
         "title": "Body Burn Challenge",
         "price": "free"
     },
     {
-        "date": "Tue Jul 21 2020",
+        "date": "Tue Jul 21 2020 00:00:00 GMT+0530 (India Standard Time)",
         "time": "05:09:26",
         "title": "Breathing Exercise",
-        "price": "free"
+        "price": "200$"
     },
     {
-        "date": "Mon Jul 13 2020",
+        "date": "Fri Jul 24 2020 00:00:00 GMT+0530 (India Standard Time)",
         "time": "02:09:26",
-        "title": "thursday turndown with coach",
+        "title": "party with coach",
         "price": "free"
     },
     {
-        "date": "Fri Jul 17 2020",
+        "date": "Fri Jul 17 2020 00:00:00 GMT+0530 (India Standard Time)",
         "time": "23:09:26",
         "title": "thursday turndown with coach",
-        "price": "free"
+        "price": "1200$"
     }
 ]

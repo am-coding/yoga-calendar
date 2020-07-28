@@ -5,23 +5,37 @@
 .App {
   display: flex;
   background-color: #333;
-  color: rgb(226, 226, 226);
+  color: rgb(255, 255, 255);
 }
 
 .events {
+  width: 50vw;
   display: flex;
   flex-direction: column;
-
+  align-items: center;
+  background-color: #464a57;
 }
 
 .logo {
 font-size: 2rem;
+background-color: aliceblue;
+padding: .8em;
+color: #333;
+border-radius: 50%;
 }
 
 @media only screen and (max-width: 800px) {
   .calendar {
     width: 100vw;
   } 
+  .App {
+    flex-direction: column-reverse;
+    overflow: hidden;
+  }
+  .events {
+    width: 100vw;
+    height: 80vh;
+  }
 }
 
 
